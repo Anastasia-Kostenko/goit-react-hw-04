@@ -11,5 +11,3 @@ export const ImageCard = ({ item, onClick }) => {
     </div>
   );
 };
-
-export default ImageCard;
